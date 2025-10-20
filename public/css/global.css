@@ -1,4 +1,4 @@
-/* :root {
+:root {
   --primary: hsl(187, 85%, 60%);
   --link-hover: hsl(207, 100%, 94%)
 }
@@ -17,8 +17,9 @@ html {
 }
 
 body {
-  font-family: Roboto;
-  background-color: hsl(220, 7%, 24%);
+   font-family: "Playwrite DE SAS", cursive;
+
+  background-color: #302e2f;;
 }
 
 a {
@@ -32,34 +33,22 @@ a:focus {
 }
 
 main {
-  color: white;
+  color: #a0bd35;
   padding: 50px;
   max-width: 1200px;
   margin: auto;
 }
 
-header {
-  margin-bottom: 4rem;
-  display: grid;
-  grid-template-columns: 1fr;
-  grid-gap: 30px;
-  max-width: 900px;
-  margin: auto;
-}
 
-header h2 {
-  margin-top: 0;
-  font-weight: 100;
-}
 
-header svg {
+/* header svg {
   width: 1em;
   fill: currentColor;
   position: relative;
   top: 2px;
   margin: 0 5px;
   display: inline-block;
-}
+} */
 
 @media screen and (min-width: 600px) {
   header {
@@ -193,4 +182,4 @@ mark {
   color: hsl(192, 87%, 15%);
   text-decoration: none;
   box-shadow: 0 7px 13px -5px currentColor;
-} */
+}
