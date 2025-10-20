@@ -187,6 +187,8 @@
 		background-color: #171717;
 		height: 100%;
 		box-shadow: 0 4px 24px 0 #a0bd35, 0 1.5px 6px 0 #87a909;
+    border-radius: 1rem;
+
 	}
   .head{
     display: flex;

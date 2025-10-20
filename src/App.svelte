@@ -6,6 +6,7 @@ import Header from "./lib/sections/Header.svelte";
   import Hero from "./lib/sections/Hero.svelte";
   import About from "./lib/sections/About.svelte";
   import Portfolio from "./lib/sections/Portfolio.svelte";
+  import Contact from "./lib/sections/Contact.svelte";
 
 	// let showcase, basics, reverse, holos, cosmos, amazings, radiant, basicGallery, 
 	// 		vee, veeUltra, veeAlt, veeMax, veeMaxAlt, veeStar, 
@@ -19,6 +20,7 @@ import Header from "./lib/sections/Header.svelte";
 	<Hero/>
 	<About/>
 	<Portfolio/>
+	<Contact/>
 	<!-- {#if query.length < 3}
 
 		<h2 id="⚓-common">
@@ -496,7 +498,7 @@ import Header from "./lib/sections/Header.svelte";
 			</a>
 		</h2>
 		<p>
-			<mark>GOL!D</mark> Here we apply two glitter layers on top of each other with a overlay effect and
+			<mark>GOLD!</mark> Here we apply two glitter layers on top of each other with a overlay effect and
 		<mark>slide the two layers in opposite directions</mark>. We also <mark>mask the foil image</mark> with a gadient so
 		that foil and glitter layers are mutually exclusive. The resulting effect is a shimmering glitter layer!
 		</p>
