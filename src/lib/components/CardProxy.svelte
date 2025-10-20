@@ -1,4 +1,6 @@
 <script>
+// @ts-nocheck
+
   import altArts from "./alternate-arts.json";
   import promos from "./promos.json";
 	import Card from "./Card.svelte";

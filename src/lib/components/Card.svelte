@@ -37,7 +37,7 @@
   let isTrainerGallery = false;
 
   let back_img = back;
-  let front_img = "";
+  let front_img = "https://intuivo.com/2016/img/tb2.jpg";
   let img_base = img.startsWith("http") ? "" : "https://images.pokemontcg.io/";
 
 
