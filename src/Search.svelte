@@ -1,4 +1,4 @@
-<script>
+<!-- <script>
 	import pokemon from "pokemontcgsdk";
   import { onMount } from "svelte";
 
@@ -217,4 +217,4 @@
   }
   
 
-</style>
+</style> -->
